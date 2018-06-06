@@ -8,3 +8,15 @@ https://pbs.twimg.com/media/DLO4z6uW0AALKE8.jpg
 https://pbs.twimg.com/media/DKWcpjLUEAAX2Ij.jpg
 https://twitter.com/IndustriesGame
 https://pbs.twimg.com/media/DQ3pwv6W4AAWaGx.jpg
+https://twitter.com/twitter/statuses/948228518554624000
+https://pbs.twimg.com/media/DKCIIUsV4AAlE2L.jpg
+https://pbs.twimg.com/media/Cp1QsmEVMAA9ZXm.jpg
+https://pbs.twimg.com/media/DbTMS4kX4AU3jBV.jpg
+
+Colors
+https://twitter.com/Spudonkey
+https://pbs.twimg.com/media/DLU27uPVYAAZImE.jpg
+https://pbs.twimg.com/media/CwmrxLwUAAAIipY.jpg
+
+Shaders
+https://twitter.com/minionsart
