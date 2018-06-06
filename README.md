@@ -17,6 +17,7 @@ Colors
 https://twitter.com/Spudonkey
 https://pbs.twimg.com/media/DLU27uPVYAAZImE.jpg
 https://pbs.twimg.com/media/CwmrxLwUAAAIipY.jpg
+https://pbs.twimg.com/media/Da5_8TKWAAAM3KE.jpg
 
 Shaders
 https://twitter.com/minionsart
