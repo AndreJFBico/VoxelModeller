@@ -22,3 +22,6 @@ https://pbs.twimg.com/media/Da5_8TKWAAAM3KE.jpg
 
 Shaders
 https://twitter.com/minionsart
+
+Shader that transforms voxelized models into smoothed out ones.
+https://medium.com/@y2bcrazy/converting-magicavoxels-marching-cube-for-your-game-799ce993721a
